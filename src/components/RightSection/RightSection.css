@@ -30,6 +30,8 @@
 .input-wrapper input {
   border: none;
   outline: none;
+  font-size: 16px;
+  font-weight: 500;
   background: #eef3f6;
 }
 
