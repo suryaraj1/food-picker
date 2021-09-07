@@ -1,0 +1,17 @@
+.emoji-meaning-wrapper {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  height: 40px;
+  width: auto;
+  padding: 10px;
+  border-radius: 8px;
+  background: #bed8ff;
+  color: #4d94ff;
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.emoji {
+  margin-right: 9px;
+}
