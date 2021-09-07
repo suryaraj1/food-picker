@@ -1,0 +1,28 @@
+.footer-wrapper {
+}
+
+.footer-text {
+  font-size: 14px;
+  font-weight: bold;
+  color: #47556a;
+  margin-bottom: 20px;
+}
+
+.footer-social-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100px;
+}
+
+.footer-social {
+  height: 20px;
+  width: 20px;
+  cursor: pointer;
+}
+
+.privacy-notice-wrapper p {
+  color: #47556a;
+  margin-top: 17px;
+  font-weight: bold;
+}

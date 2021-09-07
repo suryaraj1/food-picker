@@ -1,0 +1,18 @@
+.food-card-wrapper {
+  height: 60px;
+  width: 70px;
+  background: #fafafa;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 8px;
+  font-size: 20px;
+  cursor: pointer;
+  transition: 0.4s ease;
+  margin: 20px;
+}
+
+.food-card-wrapper:hover {
+  transform: translateY(-8px);
+  box-shadow: rgb(31 35 65 / 37%) 0px 20px 30px -11px;
+}
