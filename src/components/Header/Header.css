@@ -1,0 +1,15 @@
+.header-main {
+  color: #47556a;
+  font-size: 90px;
+  font-weight: 700;
+}
+
+.header-sub-wrapper {
+  width: 460px;
+}
+
+.header-sub {
+  font-weight: 600;
+  color: #a4b1c4;
+  font-size: 24px;
+}
