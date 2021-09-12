@@ -16,6 +16,7 @@ A food emoji identifier app with a minimal UI to help you with food emojis.🍔
 ## Features to Add 📝
 * More emoji support
 * Make app responsive
+* Add support for dark mode
 
 <h2>🚀 Demo</h2>
 
